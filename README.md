@@ -10,7 +10,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Test Automation Eğitiminde ol
 ___
 ```
 Öncelikle projeyi clonelayın.
-[https://github.com/kadak25/kodluyoruzilkrepo.git](https://github.com/kadak25/kodluyoruzilkrepo.git)
+[](https://github.com/kadak25/kodluyoruzilkrepo.git)
 ```
 #  Usage
 ___
