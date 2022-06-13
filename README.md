@@ -8,9 +8,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Test Automation Eğitiminde ol
 
 #  Insallation
 ___
-Öncelikle projeyi clonelayın.
-[https://github.com/kadak25/kodluyoruzilkrepo.git](https://github.com/kadak25/kodluyoruzilkrepo.git)
-___
+> Öncelikle projeyi clonelayın.
+  [https://github.com/kadak25/kodluyoruzilkrepo.git](https://github.com/kadak25/kodluyoruzilkrepo.git)
+
 #  Usage
 ___
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
